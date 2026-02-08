@@ -35,7 +35,7 @@ pip install mediapipe opencv-python fer pyautogui certifi
 macOS (included virtual environment):
 
 ```
-"/Users/anmoldineshpandey/Downloads/Face expression/myenv/bin/python" inference.py
+"inference.py
 ```
 
 Windows (create and use a venv):
