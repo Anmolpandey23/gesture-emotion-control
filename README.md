@@ -35,7 +35,7 @@ pip install mediapipe opencv-python fer pyautogui certifi
 macOS (included virtual environment):
 
 ```
-/users/your device name/directory/gesture_control/env/bin/python" inference.py
+"/users/your device name/directory/gesture_control/env/bin/python" inference.py
 ```
 
 Windows (create and use a venv):
